@@ -1,8 +1,8 @@
 ---
-title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-date: "2016/12/12"
+title: "Reproducible documents"
+subtitle: "with RMarkdown"
+author: "TJ Mahr"
+date: "2017-08-22"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -12,7 +12,7 @@ output:
       countIncrementalSlides: false
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 options(htmltools.dir.version = FALSE)
 ```
 
