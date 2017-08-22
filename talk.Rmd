@@ -21,7 +21,7 @@ options(htmltools.dir.version = FALSE)
 # Overview
 
 - Technology glossary
-- Demos
+- Demos / tour
 
 ---
 
@@ -55,7 +55,8 @@ _Image from `http://rmarkdown.rstudio.com/lesson-2.html`_
 
 # A range of output options
 
-* Document with some numbers and figures plugged in.
+* A paragraph with some numbers plugged in.
+* A styled document with figures, tables, and citations.
 * Slideshows (like this one)
 * Blogs: https://bookdown.org/yihui/blogdown/
 * Books: https://bookdown.org/
@@ -89,7 +90,18 @@ _Send the document to other output formats._
 
 # Demo 4
 
+_Invoke another programming language._
+
+---
+
+# Demo 5
+
 _Change the data-set._
 
 ---
 
+# Demo 6
+
+_Make the document interactive._
+
+---
