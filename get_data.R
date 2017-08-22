@@ -1,58 +1,67 @@
-# devtools::install_github("rmhogervorst/imdb")
-
-library(imdb)
-imdb::imdbSeries("Game of Thrones")
-//*[@id="tn15content"]/table[1]
-
 library(rvest)
-ep <- xml2::read_html("http://www.imdb.com/title/tt4283054/ratings")
 
-
-get_review_data <- function(url) {
-  review_html <- xml2::read_html(url)
-  series <- review_html %>%
-    rvest::html_node(xpath = '//*[@id="tn15title"]/h1/a') %>%
-    rvest::html_text() %>%
-    stringr::str_replace_all("\"", "")
-
-  ep_title <- review_html %>%
-    rvest::html_node(xpath = '//*[@id="tn15title"]/h1/span[1]/a') %>%
-    rvest::html_text()
-
-  review_html %>%
-    rvest::html_table(header = TRUE, fill = TRUE) %>%
-    purrr::pluck(1) %>%
-    tibble::add_column(Series = series, Episode = ep_title,
-                       # Average = weighted,
-                       .before = 0) %>%
-    tibble::as_tibble()
-}
-
-get_review_data(ep)
-rating_html <- xml2::read_html("http://www.imdb.com/title/tt0944947/eprate")
-
-get_scores <- function(url) {
+get_overall_ratings <- function(url) {
   rating_html <- xml2::read_html(url)
+  get_overall_ratings_html(rating_html)
+}
+
+get_overall_ratings_html <- function(rating_html) {
+  title <- rating_html %>%
+    rvest::html_node(xpath = "/html/head/title") %>%
+    rvest::html_text() %>%
+    stringr::str_replace_all("\"", "") %>%
+    stringr::str_replace_all(" [(]\\d+[)]$", "")
+
   ratings <- rating_html %>%
-    rvest::html_table(header = TRUE, fill = TRUE) %>%
-    purrr::pluck(1) %>%
-    dplyr::rename(SeasonEp = `#`) %>%
-    tidyr::separate(`SeasonEp`, c("Season", "EpisodeNum"), remove = FALSE) %>%
-    dplyr::select(SeasonEp:UserVotes) %>%
+    rvest::html_table(header = FALSE, fill = TRUE) %>%
+    purrr::pluck(1)
+
+  ratings <- ratings[-1, ] %>%
+    setNames(unlist(ratings[1, ])) %>%
+    tidyr::separate(`#`, c("Season", "EpisodeNum")) %>%
+    dplyr::select(-6)
+
+  # convert c(10, 1, 3, 2) => c("10", "01", "03", "02")
+  pad <- function(xs) {
+    pattern <- paste0("%0", max(nchar(xs)), ".f")
+    sprintf(pattern, as.numeric(xs))
+  }
+
+  ratings <- ratings %>%
+    dplyr::mutate(
+      Season = pad(Season),
+      EpisodeNum = pad(EpisodeNum),
+      SeasonEp = paste0(Season, "_", EpisodeNum)) %>%
     tibble::as_tibble()
 
-  html_nodes(rating_html, css = "#tn15content > table > tbody > tr > td > a") %>% html_text()
-  html_nodes(rating_html, css = "#tn15content > table > tbody > tr > td > a")
-  html_nodes(rating_html, css = "#tn15content > table > tbody > tr > td > a")
+  ratings <- ratings %>%
+    arrange(SeasonEp) %>%
+    group_by(Season) %>%
+    mutate(SubEp = seq_along(Episode)) %>%
+    ungroup() %>%
+    mutate(TotalEp = seq_along(SeasonEp),
+           UserVotes = readr::parse_guess(UserVotes),
+           UserRating = as.numeric(UserRating)) %>%
+    tibble::add_column(Series = title, .before = 0) %>%
+    dplyr::select(Series, Episode, SeasonEp, Season, EpisodeNum,
+                  SubEp, TotalEp, UserRating, UserVotes)
 
-
-
-  to_do <- rating_html %>%
-    html_nodes(css = "#tn15content > table:first-of-type > tr > td > a") %>%
-    html_attr("href") %>%
-    paste0("http://www.imdb.com", ., "ratings")
-
-  test <- purrr::map(to_do, get_review_data)
-  test <- get_review_data(to_do[1])
-  to_do[1]
+  ratings
 }
+
+
+
+# url <- "http://www.imdb.com/title/tt0944947/eprate"
+# data <- get_overall_ratings(url)
+# readr::write_csv(data, "got_avgs.csv")
+# # readr::write_csv(data$episode_details, "got_eps.csv")
+#
+# # Parks and Rec
+# url <- "http://www.imdb.com/title/tt1266020/eprate"
+# data <- get_overall_ratings(url)
+# readr::write_csv(data, "pnr_avgs.csv")
+#
+# # Simpsons
+# url <- "http://www.imdb.com/title/tt0096697/eprate"
+# data <- get_overall_ratings(url)
+# readr::write_csv(data, "simp_avgs.csv")

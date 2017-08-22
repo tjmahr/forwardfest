@@ -1,0 +1,51 @@
+---
+# Document metadata
+title: "Demo 1 - Code blocks"
+output: html_document
+---
+
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(readr)
+library(ggplot2)
+library(dplyr)
+```
+
+
+Load some data: 
+
+```{r load, echo = TRUE, message = FALSE}
+df <- read_csv("./got_avgs.csv") %>% 
+  select(Series, Season, EpNum = SubEp, 
+         OverallEp = TotalEp,
+         Episode, Rating = UserRating, 
+         Votes = UserVotes)
+```
+
+
+Print the first 10 rows of the data as a table:
+
+```{r table}
+knitr::kable(head(df, 10))
+```
+
+
+The data in a plot:
+
+```{r plot}
+title <- paste0(df$Series[1], " episode ratings")
+
+ggplot(df) +
+  aes(x = OverallEp, y = Rating, color = factor(Season)) +
+  geom_point() +
+  stat_smooth(method = "lm", formula = y ~ 1, se = FALSE) +
+  labs(x = "Overall Episode Number",
+       y = "IMDB Rating", 
+       color = "Season",
+       caption = "Lines: Season averages") +
+  ggtitle(title) + 
+  expand_limits(y = 7:10) + 
+  theme_grey(base_size = 16)
+```
+

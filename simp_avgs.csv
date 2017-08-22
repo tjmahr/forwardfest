@@ -1,0 +1,618 @@
+Series,Episode,SeasonEp,Season,EpisodeNum,SubEp,TotalEp,UserRating,UserVotes
+The Simpsons,Simpsons Roasting on an Open Fire,01_01,01,01,1,1,8.2,4078
+The Simpsons,Bart the Genius,01_02,01,02,2,2,7.8,2258
+The Simpsons,Homer's Odyssey,01_03,01,03,3,3,7.5,1967
+The Simpsons,There's No Disgrace Like Home,01_04,01,04,4,4,7.8,1947
+The Simpsons,Bart the General,01_05,01,05,5,5,8.1,1993
+The Simpsons,Moaning Lisa,01_06,01,06,6,6,7.6,1920
+The Simpsons,The Call of the Simpsons,01_07,01,07,7,7,7.9,1869
+The Simpsons,The Telltale Head,01_08,01,08,8,8,7.7,1814
+The Simpsons,Life on the Fast Lane,01_09,01,09,9,9,7.5,1813
+The Simpsons,Homer's Night Out,01_10,01,10,10,10,7.4,1735
+The Simpsons,The Crepes of Wrath,01_11,01,11,11,11,7.8,1771
+The Simpsons,Krusty Gets Busted,01_12,01,12,12,12,8.3,1956
+The Simpsons,Some Enchanted Evening,01_13,01,13,13,13,7.9,1794
+The Simpsons,Bart Gets an F,02_01,02,01,1,14,8.2,1899
+The Simpsons,Simpson and Delilah,02_02,02,02,2,15,8.3,1847
+The Simpsons,Treehouse of Horror,02_03,02,03,3,16,8.3,2060
+The Simpsons,Two Cars in Every Garage and Three Eyes on Every Fish,02_04,02,04,4,17,8.1,1676
+The Simpsons,Dancin' Homer,02_05,02,05,5,18,7.5,1580
+The Simpsons,Dead Putting Society,02_06,02,06,6,19,8,1571
+The Simpsons,Bart vs. Thanksgiving,02_07,02,07,7,20,7.7,1516
+The Simpsons,Bart the Daredevil,02_08,02,08,8,21,8.4,1742
+The Simpsons,Itchy and Scratchy and Marge,02_09,02,09,9,22,8.1,1604
+The Simpsons,Bart Gets Hit by a Car,02_10,02,10,10,23,7.8,1546
+The Simpsons,"One Fish, Two Fish, Blowfish, Blue Fish",02_11,02,11,11,24,8.8,1941
+The Simpsons,The Way We Was,02_12,02,12,12,25,8.2,1609
+The Simpsons,Homer vs. Lisa and the 8th Commandment,02_13,02,13,13,26,8,1525
+The Simpsons,Principal Charming,02_14,02,14,14,27,7.5,1422
+The Simpsons,"Oh Brother, Where Art Thou?",02_15,02,15,15,28,8.2,1619
+The Simpsons,Bart's Dog Gets an F,02_16,02,16,16,29,7.5,1439
+The Simpsons,Old Money,02_17,02,17,17,30,7.6,1420
+The Simpsons,Brush with Greatness,02_18,02,18,18,31,8,1436
+The Simpsons,Lisa's Substitute,02_19,02,19,19,32,8.5,1917
+The Simpsons,The War of the Simpsons,02_20,02,20,20,33,7.9,1421
+The Simpsons,Three Men and a Comic Book,02_21,02,21,21,34,8.4,1580
+The Simpsons,Blood Feud,02_22,02,22,22,35,8,1409
+The Simpsons,Stark Raving Dad,03_01,03,01,1,36,8.6,2042
+The Simpsons,Mr. Lisa Goes to Washington,03_02,03,02,2,37,7.7,1482
+The Simpsons,When Flanders Failed,03_03,03,03,3,38,8.2,1501
+The Simpsons,Bart the Murderer,03_04,03,04,4,39,8.7,1661
+The Simpsons,Homer Defined,03_05,03,05,5,40,8.5,1648
+The Simpsons,"Like Father, Like Clown",03_06,03,06,6,41,7.7,1441
+The Simpsons,Treehouse of Horror II,03_07,03,07,7,42,8.2,1580
+The Simpsons,Lisa's Pony,03_08,03,08,8,43,7.9,1420
+The Simpsons,Saturdays of Thunder,03_09,03,09,9,44,7.9,1373
+The Simpsons,Flaming Moe's,03_10,03,10,10,45,8.8,1853
+The Simpsons,Burns Verkaufen der Kraftwerk,03_11,03,11,11,46,8.2,1478
+The Simpsons,I Married Marge,03_12,03,12,12,47,8.2,1392
+The Simpsons,Radio Bart,03_13,03,13,13,48,8.5,1560
+The Simpsons,Lisa the Greek,03_14,03,14,14,49,8,1353
+The Simpsons,Homer Alone,03_15,03,15,15,50,8,1355
+The Simpsons,Bart the Lover,03_16,03,16,16,51,8.3,1462
+The Simpsons,Homer at the Bat,03_17,03,17,17,52,8.7,1862
+The Simpsons,Separate Vocations,03_18,03,18,18,53,8.2,1378
+The Simpsons,Dog of Death,03_19,03,19,19,54,7.8,1330
+The Simpsons,Colonel Homer,03_20,03,20,20,55,7.9,1415
+The Simpsons,Black Widower,03_21,03,21,21,56,8.2,1408
+The Simpsons,The Otto Show,03_22,03,22,22,57,7.8,1342
+The Simpsons,Bart's Friend Falls in Love,03_23,03,23,23,58,7.8,1328
+The Simpsons,"Brother, Can You Spare Two Dimes?",03_24,03,24,24,59,8.2,1402
+The Simpsons,Kamp Krusty,04_01,04,01,1,60,8.4,1637
+The Simpsons,A Streetcar Named Marge,04_02,04,02,2,61,8.2,1536
+The Simpsons,Homer the Heretic,04_03,04,03,3,62,9,2014
+The Simpsons,Lisa the Beauty Queen,04_04,04,04,4,63,7.8,1375
+The Simpsons,Treehouse of Horror III,04_05,04,05,5,64,8.4,1607
+The Simpsons,Itchy & Scratchy: The Movie,04_06,04,06,6,65,8.2,1489
+The Simpsons,Marge Gets a Job,04_07,04,07,7,66,7.9,1338
+The Simpsons,New Kid on the Block,04_08,04,08,8,67,8.2,1443
+The Simpsons,Mr. Plow,04_09,04,09,9,68,8.8,1864
+The Simpsons,Lisa's First Word,04_10,04,10,10,69,8.5,1569
+The Simpsons,Homer's Triple Bypass,04_11,04,11,11,70,8.7,1662
+The Simpsons,Marge vs. the Monorail,04_12,04,12,12,71,9,2333
+The Simpsons,Selma's Choice,04_13,04,13,13,72,8,1351
+The Simpsons,Brother from the Same Planet,04_14,04,14,14,73,8.1,1368
+The Simpsons,I Love Lisa,04_15,04,15,15,74,8.3,1480
+The Simpsons,Duffless,04_16,04,16,16,75,8.3,1410
+The Simpsons,Last Exit to Springfield,04_17,04,17,17,76,9,2122
+The Simpsons,So It's Come to This: A Simpsons Clip Show,04_18,04,18,18,77,7.2,1286
+The Simpsons,The Front,04_19,04,19,19,78,8.1,1306
+The Simpsons,Whacking Day,04_20,04,20,20,79,8.1,1432
+The Simpsons,Marge in Chains,04_21,04,21,21,80,7.7,1255
+The Simpsons,Krusty Gets Kancelled,04_22,04,22,22,81,8.2,1452
+The Simpsons,Homer's Barbershop Quartet,05_01,05,01,1,82,8.5,1629
+The Simpsons,Cape Feare,05_02,05,02,2,83,9.1,2355
+The Simpsons,Homer Goes to College,05_03,05,03,3,84,8.6,1700
+The Simpsons,Rosebud,05_04,05,04,4,85,8.9,1714
+The Simpsons,Treehouse of Horror IV,05_05,05,05,5,86,8.7,1659
+The Simpsons,Marge on the Lam,05_06,05,06,6,87,8.1,1326
+The Simpsons,Bart's Inner Child,05_07,05,07,7,88,7.7,1264
+The Simpsons,Boy Scoutz 'n the Hood,05_08,05,08,8,89,8.7,1494
+The Simpsons,The Last Temptation of Homer,05_09,05,09,9,90,8.4,1512
+The Simpsons,"$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",05_10,05,10,10,91,8.5,1473
+The Simpsons,Homer the Vigilante,05_11,05,11,11,92,8.2,1381
+The Simpsons,Bart Gets Famous,05_12,05,12,12,93,8.1,1303
+The Simpsons,Homer and Apu,05_13,05,13,13,94,8.3,1354
+The Simpsons,Lisa vs. Malibu Stacy,05_14,05,14,14,95,8.2,1366
+The Simpsons,Deep Space Homer,05_15,05,15,15,96,8.8,1747
+The Simpsons,Homer Loves Flanders,05_16,05,16,16,97,8.5,1382
+The Simpsons,Bart Gets an Elephant,05_17,05,17,17,98,7.9,1296
+The Simpsons,Burns' Heir,05_18,05,18,18,99,8.4,1322
+The Simpsons,Sweet Seymour Skinner's Baadasssss Song,05_19,05,19,19,100,8.4,1304
+The Simpsons,The Boy Who Knew Too Much,05_20,05,20,20,101,8.2,1286
+The Simpsons,Lady Bouvier's Lover,05_21,05,21,21,102,7.6,1173
+The Simpsons,Secrets of a Successful Marriage,05_22,05,22,22,103,8.1,1230
+The Simpsons,Bart of Darkness,06_01,06,01,1,104,8.6,1553
+The Simpsons,Lisa's Rival,06_02,06,02,2,105,8.1,1335
+The Simpsons,Another Simpsons Clip Show,06_03,06,03,3,106,6,1202
+The Simpsons,Itchy & Scratchy Land,06_04,06,04,4,107,8.5,1486
+The Simpsons,Sideshow Bob Roberts,06_05,06,05,5,108,8.3,1318
+The Simpsons,Treehouse of Horror V,06_06,06,06,6,109,9.1,1986
+The Simpsons,Bart's Girlfriend,06_07,06,07,7,110,8,1328
+The Simpsons,Lisa on Ice,06_08,06,08,8,111,8.5,1441
+The Simpsons,Homer Badman,06_09,06,09,9,112,9,1888
+The Simpsons,Grampa vs. Sexual Inadequacy,06_10,06,10,10,113,8,1220
+The Simpsons,Fear of Flying,06_11,06,11,11,114,7.8,1263
+The Simpsons,Homer the Great,06_12,06,12,12,115,9,1685
+The Simpsons,And Maggie Makes Three,06_13,06,13,13,116,8.6,1509
+The Simpsons,Bart's Comet,06_14,06,14,14,117,8.6,1412
+The Simpsons,Homie the Clown,06_15,06,15,15,118,8.6,1449
+The Simpsons,Bart vs. Australia,06_16,06,16,16,119,8.5,1561
+The Simpsons,Homer vs. Patty and Selma,06_17,06,17,17,120,7.9,1160
+The Simpsons,A Star Is Burns,06_18,06,18,18,121,8.5,1416
+The Simpsons,Lisa's Wedding,06_19,06,19,19,122,8.3,1381
+The Simpsons,Two Dozen and One Greyhounds,06_20,06,20,20,123,8.2,1216
+The Simpsons,The PTA Disbands,06_21,06,21,21,124,8.1,1173
+The Simpsons,'Round Springfield,06_22,06,22,22,125,8.3,1263
+The Simpsons,The Springfield Connection,06_23,06,23,23,126,8.2,1168
+The Simpsons,Lemon of Troy,06_24,06,24,24,127,8.7,1501
+The Simpsons,Who Shot Mr. Burns? Part One,06_25,06,25,25,128,9.1,1901
+The Simpsons,Who Shot Mr. Burns? Part Two,07_01,07,01,1,129,8.9,1744
+The Simpsons,Radioactive Man,07_02,07,02,2,130,8.3,1348
+The Simpsons,Home Sweet Home-Dum-Diddly Doodily,07_03,07,03,3,131,8.3,1256
+The Simpsons,Bart Sells His Soul,07_04,07,04,4,132,8.8,1589
+The Simpsons,Lisa the Vegetarian,07_05,07,05,5,133,8.5,1492
+The Simpsons,Treehouse of Horror VI,07_06,07,06,6,134,8.5,1504
+The Simpsons,King Size Homer,07_07,07,07,7,135,9,1875
+The Simpsons,Mother Simpson,07_08,07,08,8,136,8.5,1422
+The Simpsons,Sideshow Bob's Last Gleaming,07_09,07,09,9,137,8,1190
+The Simpsons,The Simpsons 138th Episode Spectacular,07_10,07,10,10,138,7.5,1189
+The Simpsons,Marge Be Not Proud,07_11,07,11,11,139,8.4,1369
+The Simpsons,Team Homer,07_12,07,12,12,140,8.3,1228
+The Simpsons,Two Bad Neighbors,07_13,07,13,13,141,8.7,1475
+The Simpsons,Scenes from the Class Struggle in Springfield,07_14,07,14,14,142,7.7,1120
+The Simpsons,Bart the Fink,07_15,07,15,15,143,7.7,1115
+The Simpsons,Lisa the Iconoclast,07_16,07,16,16,144,8.1,1202
+The Simpsons,Homer the Smithers,07_17,07,17,17,145,8.9,1809
+The Simpsons,The Day the Violence Died,07_18,07,18,18,146,8,1176
+The Simpsons,A Fish Called Selma,07_19,07,19,19,147,8.3,1283
+The Simpsons,Bart on the Road,07_20,07,20,20,148,8.6,1297
+The Simpsons,22 Short Films About Springfield,07_21,07,21,21,149,8.8,1631
+The Simpsons,Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish',07_22,07,22,22,150,8.4,1297
+The Simpsons,Much Apu About Nothing,07_23,07,23,23,151,8.1,1158
+The Simpsons,Homerpalooza,07_24,07,24,24,152,8,1257
+The Simpsons,"Summer of 4'2""",07_25,07,25,25,153,8.3,1305
+The Simpsons,Treehouse of Horror VII,08_01,08,01,1,154,8.4,1386
+The Simpsons,You Only Move Twice,08_02,08,02,2,155,9.2,2836
+The Simpsons,The Homer They Fall,08_03,08,03,3,156,8,1256
+The Simpsons,"Burns, Baby Burns",08_04,08,04,4,157,7.7,1237
+The Simpsons,Bart After Dark,08_05,08,05,5,158,8.2,1275
+The Simpsons,A Milhouse Divided,08_06,08,06,6,159,8,1175
+The Simpsons,Lisa's Date with Density,08_07,08,07,7,160,7.8,1160
+The Simpsons,Hurricane Neddy,08_08,08,08,8,161,8.8,1478
+The Simpsons,El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Homer),08_09,08,09,9,162,8.5,1586
+The Simpsons,The Springfield Files,08_10,08,10,10,163,9,2056
+The Simpsons,The Twisted World of Marge Simpson,08_11,08,11,11,164,7.8,1154
+The Simpsons,Mountain of Madness,08_12,08,12,12,165,8.6,1326
+The Simpsons,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,08_13,08,13,13,166,7.7,1256
+The Simpsons,The Itchy & Scratchy & Poochie Show,08_14,08,14,14,167,7.9,1255
+The Simpsons,Homer's Phobia,08_15,08,15,15,168,8.9,1885
+The Simpsons,Brother from Another Series,08_16,08,16,16,169,8.2,1279
+The Simpsons,"My Sister, My Sitter",08_17,08,17,17,170,8.1,1172
+The Simpsons,Homer vs. the 18th Amendment,08_18,08,18,18,171,8.8,1532
+The Simpsons,Grade School Confidential,08_19,08,19,19,172,8.2,1149
+The Simpsons,The Canine Mutiny,08_20,08,20,20,173,7.7,1066
+The Simpsons,The Old Man and the Lisa,08_21,08,21,21,174,7.9,1115
+The Simpsons,In Marge We Trust,08_22,08,22,22,175,8,1127
+The Simpsons,Homer's Enemy,08_23,08,23,23,176,9.3,2678
+The Simpsons,The Simpsons Spin-Off Showcase,08_24,08,24,24,177,7.2,1164
+The Simpsons,The Secret War of Lisa Simpson,08_25,08,25,25,178,7.8,1114
+The Simpsons,The City of New York vs. Homer Simpson,09_01,09,01,1,179,9.1,2256
+The Simpsons,The Principal and the Pauper,09_02,09,02,2,180,7.3,1342
+The Simpsons,Lisa's Sax,09_03,09,03,3,181,8.1,1141
+The Simpsons,Treehouse of Horror VIII,09_04,09,04,4,182,8.2,1186
+The Simpsons,The Cartridge Family,09_05,09,05,5,183,8.3,1251
+The Simpsons,Bart Star,09_06,09,06,6,184,7.8,1072
+The Simpsons,The Two Mrs. Nahasapeemapetilons,09_07,09,07,7,185,7.7,1050
+The Simpsons,Lisa the Skeptic,09_08,09,08,8,186,8,1143
+The Simpsons,Realty Bites,09_09,09,09,9,187,7.6,1032
+The Simpsons,Miracle on Evergreen Terrace,09_10,09,10,10,188,7.6,1104
+The Simpsons,"All Singing, All Dancing",09_11,09,11,11,189,5.1,1276
+The Simpsons,Bart Carny,09_12,09,12,12,190,7.7,1085
+The Simpsons,The Joy of Sect,09_13,09,13,13,191,8.3,1193
+The Simpsons,Das Bus,09_14,09,14,14,192,8.2,1191
+The Simpsons,The Last Temptation of Krust,09_15,09,15,15,193,7.5,1020
+The Simpsons,Dumbbell Indemnity,09_16,09,16,16,194,7.7,1025
+The Simpsons,Lisa the Simpson,09_17,09,17,17,195,8,1106
+The Simpsons,This Little Wiggy,09_18,09,18,18,196,7.9,1056
+The Simpsons,Simpson Tide,09_19,09,19,19,197,8.3,1177
+The Simpsons,The Trouble with Trillions,09_20,09,20,20,198,7.9,1091
+The Simpsons,Girly Edition,09_21,09,21,21,199,7.9,1049
+The Simpsons,Trash of the Titans,09_22,09,22,22,200,8.5,1282
+The Simpsons,King of the Hill,09_23,09,23,23,201,8.3,1123
+The Simpsons,Lost Our Lisa,09_24,09,24,24,202,7.7,1024
+The Simpsons,Natural Born Kissers,09_25,09,25,25,203,8.1,1079
+The Simpsons,Lard of the Dance,10_01,10,01,1,204,7.6,1093
+The Simpsons,The Wizard of Evergreen Terrace,10_02,10,02,2,205,8.2,1148
+The Simpsons,Bart the Mother,10_03,10,03,3,206,7.5,1045
+The Simpsons,Treehouse of Horror IX,10_04,10,04,4,207,8,1181
+The Simpsons,When You Dish Upon a Star,10_05,10,05,5,208,7.3,1090
+The Simpsons,D'oh-in' in the Wind,10_06,10,06,6,209,7.6,1056
+The Simpsons,Lisa Gets an 'A',10_07,10,07,7,210,8,1070
+The Simpsons,Homer Simpson in: 'Kidney Trouble',10_08,10,08,8,211,7.3,1009
+The Simpsons,Mayored to the Mob,10_09,10,09,9,212,8.2,1132
+The Simpsons,Viva Ned Flanders,10_10,10,10,10,213,7.8,1072
+The Simpsons,Wild Barts Can't Be Broken,10_11,10,11,11,214,7.7,976
+The Simpsons,"Sunday, Cruddy Sunday",10_12,10,12,12,215,6.9,1015
+The Simpsons,Homer to the Max,10_13,10,13,13,216,7.7,1040
+The Simpsons,I'm with Cupid,10_14,10,14,14,217,7.3,938
+The Simpsons,Marge Simpson in 'Screaming Yellow Honkers',10_15,10,15,15,218,7.3,968
+The Simpsons,Make Room for Lisa,10_16,10,16,16,219,7.5,930
+The Simpsons,Maximum Homerdrive,10_17,10,17,17,220,7.7,986
+The Simpsons,Simpsons Bible Stories,10_18,10,18,18,221,7.3,998
+The Simpsons,Mom and Pop Art,10_19,10,19,19,222,7.6,977
+The Simpsons,The Old Man and the 'C' Student,10_20,10,20,20,223,7.3,913
+The Simpsons,Monty Can't Buy Me Love,10_21,10,21,21,224,7.2,918
+The Simpsons,They Saved Lisa's Brain,10_22,10,22,22,225,7.3,940
+The Simpsons,Thirty Minutes Over Tokyo,10_23,10,23,23,226,8,1118
+The Simpsons,Beyond Blunderdome,11_01,11,01,1,227,7.3,1066
+The Simpsons,Brother's Little Helper,11_02,11,02,2,228,7.5,913
+The Simpsons,Guess Who's Coming to Criticize Dinner?,11_03,11,03,3,229,7.5,935
+The Simpsons,Treehouse of Horror X,11_04,11,04,4,230,7.8,1030
+The Simpsons,E-I-E-I-(Annoyed Grunt),11_05,11,05,5,231,7.6,958
+The Simpsons,"Hello Gutter, Hello Fadder",11_06,11,06,6,232,7.3,886
+The Simpsons,Eight Misbehavin',11_07,11,07,7,233,7.1,868
+The Simpsons,"Take My Wife, Sleaze",11_08,11,08,8,234,7.2,903
+The Simpsons,Grift of the Magi,11_09,11,09,9,235,7.3,942
+The Simpsons,Little Big Mom,11_10,11,10,10,236,7.3,840
+The Simpsons,Faith Off,11_11,11,11,11,237,6.9,856
+The Simpsons,The Mansion Family,11_12,11,12,12,238,7.3,866
+The Simpsons,Saddlesore Galactica,11_13,11,13,13,239,6.6,940
+The Simpsons,"Alone Again, Natura-Diddly",11_14,11,14,14,240,7.9,1020
+The Simpsons,Missionary: Impossible,11_15,11,15,15,241,7.3,899
+The Simpsons,Pygmoelian,11_16,11,16,16,242,7.3,869
+The Simpsons,Bart to the Future,11_17,11,17,17,243,7.1,934
+The Simpsons,Days of Wine and D'oh'ses,11_18,11,18,18,244,7.4,843
+The Simpsons,Kill the Alligator and Run,11_19,11,19,19,245,6.6,926
+The Simpsons,Last Tap Dance in Springfield,11_20,11,20,20,246,7.2,829
+The Simpsons,"It's a Mad, Mad, Mad, Mad Marge",11_21,11,21,21,247,7.3,850
+The Simpsons,Behind the Laughter,11_22,11,22,22,248,7.9,1102
+The Simpsons,Treehouse of Horror XI,12_01,12,01,1,249,7.6,958
+The Simpsons,A Tale of Two Springfields,12_02,12,02,2,250,7.4,928
+The Simpsons,Insane Clown Poppy,12_03,12,03,3,251,7.1,840
+The Simpsons,Lisa the Tree Hugger,12_04,12,04,4,252,7.2,847
+The Simpsons,Homer vs. Dignity,12_05,12,05,5,253,7.2,879
+The Simpsons,The Computer Wore Menace Shoes,12_06,12,06,6,254,7.7,916
+The Simpsons,The Great Money Caper,12_07,12,07,7,255,7.3,880
+The Simpsons,Skinner's Sense of Snow,12_08,12,08,8,256,8,973
+The Simpsons,HOMR,12_09,12,09,9,257,8.1,1046
+The Simpsons,Pokey Mom,12_10,12,10,10,258,7.3,880
+The Simpsons,Worst Episode Ever,12_11,12,11,11,259,7.5,887
+The Simpsons,Tennis the Menace,12_12,12,12,12,260,6.9,847
+The Simpsons,Day of the Jackanapes,12_13,12,13,13,261,7.2,779
+The Simpsons,New Kids on the Blecch,12_14,12,14,14,262,7.2,960
+The Simpsons,Hungry Hungry Homer,12_15,12,15,15,263,7.5,854
+The Simpsons,Bye Bye Nerdy,12_16,12,16,16,264,6.5,812
+The Simpsons,Simpson Safari,12_17,12,17,17,265,6.9,837
+The Simpsons,Trilogy of Error,12_18,12,18,18,266,8.6,1269
+The Simpsons,I'm Goin' to Praiseland,12_19,12,19,19,267,7.3,831
+The Simpsons,Children of a Lesser Clod,12_20,12,20,20,268,7.2,777
+The Simpsons,Simpsons Tall Tales,12_21,12,21,21,269,7,801
+The Simpsons,Treehouse of Horror XII,13_01,13,01,1,270,7.5,957
+The Simpsons,The Parent Rap,13_02,13,02,2,271,7.1,789
+The Simpsons,Homer the Moe,13_03,13,03,3,272,7.2,814
+The Simpsons,A Hunka Hunka Burns in Love,13_04,13,04,4,273,7.1,765
+The Simpsons,The Blunder Years,13_05,13,05,5,274,7.7,841
+The Simpsons,She of Little Faith,13_06,13,06,6,275,7.1,811
+The Simpsons,Brawl in the Family,13_07,13,07,7,276,6.9,762
+The Simpsons,Sweets and Sour Marge,13_08,13,08,8,277,7,759
+The Simpsons,Jaws Wired Shut,13_09,13,09,9,278,7.3,752
+The Simpsons,Half-Decent Proposal,13_10,13,10,10,279,7.5,793
+The Simpsons,The Bart Wants What It Wants,13_11,13,11,11,280,7.1,731
+The Simpsons,The Lastest Gun in the West,13_12,13,12,12,281,6.5,766
+The Simpsons,The Old Man and the Key,13_13,13,13,13,282,6.5,728
+The Simpsons,Tales from the Public Domain,13_14,13,14,14,283,7.3,747
+The Simpsons,Blame It on Lisa,13_15,13,15,15,284,7,779
+The Simpsons,Weekend at Burnsie's,13_16,13,16,16,285,7.7,888
+The Simpsons,Gump Roast,13_17,13,17,17,286,5.6,835
+The Simpsons,I Am Furious Yellow,13_18,13,18,18,287,7.7,821
+The Simpsons,The Sweetest Apu,13_19,13,19,19,288,6.9,710
+The Simpsons,Little Girl in the Big Ten,13_20,13,20,20,289,7.2,724
+The Simpsons,The Frying Game,13_21,13,21,21,290,7.1,743
+The Simpsons,Papa's Got a Brand New Badge,13_22,13,22,22,291,8,832
+The Simpsons,Treehouse of Horror XIII,14_01,14,01,1,292,7.6,884
+The Simpsons,How I Spent My Strummer Vacation,14_02,14,02,2,293,7.3,839
+The Simpsons,Bart vs. Lisa vs. 3rd Grade,14_03,14,03,3,294,7,755
+The Simpsons,Large Marge,14_04,14,04,4,295,7.1,822
+The Simpsons,Helter Shelter,14_05,14,05,5,296,6.8,737
+The Simpsons,The Great Louse Detective,14_06,14,06,6,297,7.2,752
+The Simpsons,Special Edna,14_07,14,07,7,298,7.1,705
+The Simpsons,The Dad Who Knew Too Little,14_08,14,08,8,299,7.2,719
+The Simpsons,The Strong Arms of the Ma,14_09,14,09,9,300,6.9,765
+The Simpsons,Pray Anything,14_10,14,10,10,301,6.8,701
+The Simpsons,Barting Over,14_11,14,11,11,302,6.6,753
+The Simpsons,I'm Spelling as Fast as I Can,14_12,14,12,12,303,7.3,738
+The Simpsons,A Star Is Born Again,14_13,14,13,13,304,7,709
+The Simpsons,Mr. Spritz Goes to Washington,14_14,14,14,14,305,6.8,684
+The Simpsons,C.E.D'oh,14_15,14,15,15,306,7.2,661
+The Simpsons,'Scuse Me While I Miss the Sky,14_16,14,16,16,307,7.1,666
+The Simpsons,Three Gays of the Condo,14_17,14,17,17,308,7.2,765
+The Simpsons,"Dude, Where's My Ranch?",14_18,14,18,18,309,7,756
+The Simpsons,Old Yeller-Belly,14_19,14,19,19,310,6.7,677
+The Simpsons,"Brake My Wife, Please",14_20,14,20,20,311,6.8,668
+The Simpsons,The Bart of War,14_21,14,21,21,312,6.7,684
+The Simpsons,Moe Baby Blues,14_22,14,22,22,313,7.7,815
+The Simpsons,Treehouse of Horror XIV,15_01,15,01,1,314,7.4,875
+The Simpsons,My Mother the Carjacker,15_02,15,02,2,315,7.3,707
+The Simpsons,The President Wore Pearls,15_03,15,03,3,316,7,743
+The Simpsons,The Regina Monologues,15_04,15,04,4,317,7.1,814
+The Simpsons,The Fat and the Furriest,15_05,15,05,5,318,7.2,692
+The Simpsons,"Today, I Am a Clown",15_06,15,06,6,319,6.6,683
+The Simpsons,'Tis the Fifteenth Season,15_07,15,07,7,320,7.1,695
+The Simpsons,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",15_08,15,08,8,321,6.7,696
+The Simpsons,"I, (Annoyed Grunt)-Bot",15_09,15,09,9,322,7.2,717
+The Simpsons,Diatribe of a Mad Housewife,15_10,15,10,10,323,7.2,707
+The Simpsons,Margical History Tour,15_11,15,11,11,324,7.1,673
+The Simpsons,Milhouse Doesn't Live Here Anymore,15_12,15,12,12,325,7.2,690
+The Simpsons,Smart & Smarter,15_13,15,13,13,326,7.1,689
+The Simpsons,The Ziff Who Came to Dinner,15_14,15,14,14,327,6.8,664
+The Simpsons,Co-Dependent's Day,15_15,15,15,15,328,6.8,660
+The Simpsons,The Wandering Juvie,15_16,15,16,16,329,6.9,699
+The Simpsons,My Big Fat Geek Wedding,15_17,15,17,17,330,6.7,656
+The Simpsons,Catch 'Em If You Can,15_18,15,18,18,331,7,706
+The Simpsons,Simple Simpson,15_19,15,19,19,332,7.3,714
+The Simpsons,The Way We Weren't,15_20,15,20,20,333,7.2,701
+The Simpsons,Bart-Mangled Banner,15_21,15,21,21,334,6.2,701
+The Simpsons,Fraudcast News,15_22,15,22,22,335,7.2,656
+The Simpsons,Treehouse of Horror XV,16_01,16,01,1,336,7.4,788
+The Simpsons,All's Fair in Oven War,16_02,16,02,2,337,7,674
+The Simpsons,Sleeping with the Enemy,16_03,16,03,3,338,7.1,665
+The Simpsons,She Used to Be My Girl,16_04,16,04,4,339,6.6,672
+The Simpsons,Fat Man and Little Boy,16_05,16,05,5,340,7.1,636
+The Simpsons,Midnight Rx,16_06,16,06,6,341,7.2,666
+The Simpsons,Mommie Beerest,16_07,16,07,7,342,7,624
+The Simpsons,Homer and Ned's Hail Mary Pass,16_08,16,08,8,343,6.4,689
+The Simpsons,Pranksta Rap,16_09,16,09,9,344,6.8,706
+The Simpsons,There's Something About Marrying,16_10,16,10,10,345,7.1,682
+The Simpsons,On a Clear Day I Can't See My Sister,16_11,16,11,11,346,6.9,672
+The Simpsons,Goo Goo Gai Pan,16_12,16,12,12,347,7,688
+The Simpsons,Mobile Homer,16_13,16,13,13,348,6.9,631
+The Simpsons,The Seven-Beer Snitch,16_14,16,14,14,349,6.9,639
+The Simpsons,Future-Drama,16_15,16,15,15,350,7.3,724
+The Simpsons,Don't Fear the Roofer,16_16,16,16,16,351,7.4,777
+The Simpsons,The Heartbroke Kid,16_17,16,17,17,352,7.2,661
+The Simpsons,A Star Is Torn,16_18,16,18,18,353,6.7,651
+The Simpsons,Thank God It's Doomsday,16_19,16,19,19,354,7.2,679
+The Simpsons,Home Away from Homer,16_20,16,20,20,355,7.1,635
+The Simpsons,"The Father, the Son, and the Holy Guest Star",16_21,16,21,21,356,7.2,732
+The Simpsons,Bonfire of the Manatees,17_01,17,01,1,357,6.2,717
+The Simpsons,The Girl Who Slept Too Little,17_02,17,02,2,358,6.9,682
+The Simpsons,Milhouse of Sand and Fog,17_03,17,03,3,359,7,645
+The Simpsons,Treehouse of Horror XVI,17_04,17,04,4,360,7.3,758
+The Simpsons,Marge's Son Poisoning,17_05,17,05,5,361,6.9,664
+The Simpsons,See Homer Run,17_06,17,06,6,362,6.9,632
+The Simpsons,The Last of the Red Hat Mamas,17_07,17,07,7,363,6.7,645
+The Simpsons,The Italian Bob,17_08,17,08,8,364,7,802
+The Simpsons,Simpsons Christmas Stories,17_09,17,09,9,365,6.9,643
+The Simpsons,Homer's Paternity Coot,17_10,17,10,10,366,6.7,648
+The Simpsons,We're on the Road to D'ohwhere,17_11,17,11,11,367,6.9,629
+The Simpsons,My Fair Laddy,17_12,17,12,12,368,6.3,689
+The Simpsons,The Seemingly Never-Ending Story,17_13,17,13,13,369,7.5,754
+The Simpsons,Bart Has Two Mommies,17_14,17,14,14,370,7,649
+The Simpsons,"Homer Simpson, This Is Your Wife",17_15,17,15,15,371,6.5,946
+The Simpsons,Million Dollar Abie,17_16,17,16,16,372,6.5,663
+The Simpsons,"Kiss Kiss, Bang Bangalore",17_17,17,17,17,373,7.2,764
+The Simpsons,The Wettest Stories Ever Told,17_18,17,18,18,374,6.7,637
+The Simpsons,Girls Just Want to Have Sums,17_19,17,19,19,375,7.2,689
+The Simpsons,Regarding Margie,17_20,17,20,20,376,6.7,644
+The Simpsons,The Monkey Suit,17_21,17,21,21,377,7.1,690
+The Simpsons,Homer and Marge Turn a Couple Play,17_22,17,22,22,378,6.5,684
+The Simpsons,"The Mook, the Chef, the Wife and Her Homer",18_01,18,01,1,379,7.5,855
+The Simpsons,Jazzy & The Pussycats,18_02,18,02,2,380,6.7,762
+The Simpsons,"Please Homer, Don't Hammer 'Em",18_03,18,03,3,381,6.7,714
+The Simpsons,Treehouse of Horror XVII,18_04,18,04,4,382,7,823
+The Simpsons,G.I. (Annoyed Grunt),18_05,18,05,5,383,6.8,748
+The Simpsons,Moe'N'a Lisa,18_06,18,06,6,384,6.8,693
+The Simpsons,Ice Cream of Margie: With the Light Blue Hair,18_07,18,07,7,385,7,691
+The Simpsons,The Haw-Hawed Couple,18_08,18,08,8,386,7.2,658
+The Simpsons,"Kill Gil, Vol. 1 & 2",18_09,18,09,9,387,6.4,706
+The Simpsons,The Wife Aquatic,18_10,18,10,10,388,6.6,698
+The Simpsons,Revenge Is a Dish Best Served Three Times,18_11,18,11,11,389,7,665
+The Simpsons,Little Big Girl,18_12,18,12,12,390,6.9,760
+The Simpsons,Springfield Up,18_13,18,13,13,391,7.2,710
+The Simpsons,Yokel Chords,18_14,18,14,14,392,7,724
+The Simpsons,Rome-old and Juli-eh,18_15,18,15,15,393,6.3,685
+The Simpsons,Homerazzi,18_16,18,16,16,394,7.1,701
+The Simpsons,Marge Gamer,18_17,18,17,17,395,7.3,770
+The Simpsons,The Boys of Bummer,18_18,18,18,18,396,6.2,681
+The Simpsons,Crook and Ladder,18_19,18,19,19,397,7,622
+The Simpsons,Stop or My Dog Will Shoot,18_20,18,20,20,398,6.9,649
+The Simpsons,24 Minutes,18_21,18,21,21,399,8.1,1311
+The Simpsons,You Kent Always Say What You Want,18_22,18,22,22,400,7.2,780
+The Simpsons,He Loves to Fly and He D'ohs,19_01,19,01,1,401,6.7,787
+The Simpsons,Homer of Seville,19_02,19,02,2,402,6.6,774
+The Simpsons,Midnight Towboy,19_03,19,03,3,403,7.2,727
+The Simpsons,I Don't Wanna Know Why the Caged Bird Sings,19_04,19,04,4,404,6.9,707
+The Simpsons,Treehouse of Horror XVIII,19_05,19,05,5,405,7,774
+The Simpsons,Little Orphan Millie,19_06,19,06,6,406,6.7,678
+The Simpsons,Husbands and Knives,19_07,19,07,7,407,7.1,849
+The Simpsons,Funeral for a Fiend,19_08,19,08,8,408,7.1,763
+The Simpsons,Eternal Moonshine of the Simpson Mind,19_09,19,09,9,409,8.1,1076
+The Simpsons,E Pluribus Wiggum,19_10,19,10,10,410,6.8,717
+The Simpsons,That '90s Show,19_11,19,11,11,411,6.3,1174
+The Simpsons,"Love, Springfieldian Style",19_12,19,12,12,412,6.6,716
+The Simpsons,The DeBarted,19_13,19,13,13,413,7.6,889
+The Simpsons,Dial 'N' for Nerder,19_14,19,14,14,414,7.2,711
+The Simpsons,Smoke on the Daughter,19_15,19,15,15,415,6.7,670
+The Simpsons,Papa Don't Leech,19_16,19,16,16,416,6.1,664
+The Simpsons,Apocalypse Cow,19_17,19,17,17,417,6.8,687
+The Simpsons,Any Given Sundance,19_18,19,18,18,418,7,668
+The Simpsons,Mona Leaves-a,19_19,19,19,19,419,7.1,705
+The Simpsons,All About Lisa,19_20,19,20,20,420,6.4,618
+The Simpsons,"Sex, Pies and Idiot Scrapes",20_01,20,01,1,421,7.2,880
+The Simpsons,Lost Verizon,20_02,20,02,2,422,6.9,778
+The Simpsons,"Double, Double, Boy in Trouble",20_03,20,03,3,423,6.9,724
+The Simpsons,Treehouse of Horror XIX,20_04,20,04,4,424,7.1,856
+The Simpsons,Dangerous Curves,20_05,20,05,5,425,6.5,703
+The Simpsons,Homer and Lisa Exchange Cross Words,20_06,20,06,6,426,7,692
+The Simpsons,MyPods and Boomsticks,20_07,20,07,7,427,7.1,818
+The Simpsons,The Burns and the Bees,20_08,20,08,8,428,6.5,704
+The Simpsons,Lisa the Drama Queen,20_09,20,09,9,429,5.9,805
+The Simpsons,"Take My Life, Please",20_10,20,10,10,430,7,678
+The Simpsons,How the Test Was Won,20_11,20,11,11,431,7,693
+The Simpsons,"No Loan Again, Naturally",20_12,20,12,12,432,6.9,673
+The Simpsons,Gone Maggie Gone,20_13,20,13,13,433,7.2,749
+The Simpsons,In the Name of the Grandfather,20_14,20,14,14,434,6.3,712
+The Simpsons,Wedding for Disaster,20_15,20,15,15,435,6.8,652
+The Simpsons,Eeny Teeny Maya Moe,20_16,20,16,16,436,7.2,701
+The Simpsons,"The Good, the Sad and the Drugly",20_17,20,17,17,437,7.2,696
+The Simpsons,Father Knows Worst,20_18,20,18,18,438,6.9,638
+The Simpsons,"Waverly Hills, 9021-D'Oh",20_19,20,19,19,439,7.1,710
+The Simpsons,Four Great Women and a Manicure,20_20,20,20,20,440,6.3,682
+The Simpsons,Coming to Homerica,20_21,20,21,21,441,7.2,747
+The Simpsons,Homer the Whopper,21_01,21,01,1,442,7.1,787
+The Simpsons,Bart Gets a 'Z',21_02,21,02,2,443,6.6,675
+The Simpsons,The Great Wife Hope,21_03,21,03,3,444,6.3,647
+The Simpsons,Treehouse of Horror XX,21_04,21,04,4,445,7.3,773
+The Simpsons,The Devil Wears Nada,21_05,21,05,5,446,6.7,638
+The Simpsons,Pranks and Greens,21_06,21,06,6,447,6.7,622
+The Simpsons,Rednecks and Broomsticks,21_07,21,07,7,448,6.8,599
+The Simpsons,"Oh Brother, Where Bart Thou?",21_08,21,08,8,449,7.1,624
+The Simpsons,Thursdays with Abie,21_09,21,09,9,450,6.8,556
+The Simpsons,Once Upon a Time in Springfield,21_10,21,10,10,451,6.7,629
+The Simpsons,Million Dollar Maybe,21_11,21,11,11,452,7.1,612
+The Simpsons,Boy Meets Curl,21_12,21,12,12,453,6.8,602
+The Simpsons,The Color Yellow,21_13,21,13,13,454,6.6,581
+The Simpsons,Postcards from the Wedge,21_14,21,14,14,455,7,564
+The Simpsons,Stealing First Base,21_15,21,15,15,456,7,639
+The Simpsons,The Greatest Story Ever D'ohed,21_16,21,16,16,457,5.7,767
+The Simpsons,American History X-cellent,21_17,21,17,17,458,6.6,554
+The Simpsons,Chief of Hearts,21_18,21,18,18,459,6.9,560
+The Simpsons,The Squirt and the Whale,21_19,21,19,19,460,6.9,596
+The Simpsons,"To Surveil, with Love",21_20,21,20,20,461,7.2,595
+The Simpsons,Moe Letter Blues,21_21,21,21,21,462,6.9,575
+The Simpsons,The Bob Next Door,21_22,21,22,22,463,7.2,630
+The Simpsons,Judge Me Tender,21_23,21,23,23,464,6.6,583
+The Simpsons,Elementary School Musical,22_01,22,01,1,465,6.2,780
+The Simpsons,Loan-a Lisa,22_02,22,02,2,466,6.8,584
+The Simpsons,MoneyBart,22_03,22,03,3,467,6.7,584
+The Simpsons,Treehouse of Horror XXI,22_04,22,04,4,468,7.1,774
+The Simpsons,"Lisa Simpson, This Isn't Your Life",22_05,22,05,5,469,7.1,558
+The Simpsons,The Fool Monty,22_06,22,06,6,470,6.5,560
+The Simpsons,How Munched Is That Birdie in the Window?,22_07,22,07,7,471,6.4,567
+The Simpsons,The Fight Before Christmas,22_08,22,08,8,472,6.8,644
+The Simpsons,Donnie Fatso,22_09,22,09,9,473,7,607
+The Simpsons,Moms I'd Like to Forget,22_10,22,10,10,474,6.3,538
+The Simpsons,Flaming Moe,22_11,22,11,11,475,6.8,602
+The Simpsons,Homer the Father,22_12,22,12,12,476,7,564
+The Simpsons,The Blue and the Gray,22_13,22,13,13,477,6.9,540
+The Simpsons,Angry Dad: The Movie,22_14,22,14,14,478,7.2,648
+The Simpsons,The Scorpion's Tale,22_15,22,15,15,479,6.6,564
+The Simpsons,A Midsummer's Nice Dreams,22_16,22,16,16,480,6.1,558
+The Simpsons,Love Is a Many Strangled Thing,22_17,22,17,17,481,6.4,549
+The Simpsons,The Great Simpsina,22_18,22,18,18,482,7,579
+The Simpsons,The Real Housewives of Fat Tony,22_19,22,19,19,483,6.6,564
+The Simpsons,Homer Scissorhands,22_20,22,20,20,484,7.1,564
+The Simpsons,500 Keys,22_21,22,21,21,485,7.2,592
+The Simpsons,The Ned-Liest Catch,22_22,22,22,22,486,7,564
+The Simpsons,The Falcon and the D'Ohman,23_01,23,01,1,487,7.1,754
+The Simpsons,Bart Stops to Smell the Roosevelts,23_02,23,02,2,488,7,616
+The Simpsons,Treehouse of Horror XXII,23_03,23,03,3,489,6.6,730
+The Simpsons,Replaceable You,23_04,23,04,4,490,6.7,560
+The Simpsons,The Food Wife,23_05,23,05,5,491,7.2,643
+The Simpsons,The Book Job,23_06,23,06,6,492,7.8,812
+The Simpsons,The Man in the Blue Flannel Pants,23_07,23,07,7,493,6.7,562
+The Simpsons,The Ten-Per-Cent Solution,23_08,23,08,8,494,6.2,547
+The Simpsons,Holidays of Future Passed,23_09,23,09,9,495,8.2,1054
+The Simpsons,"Politically Inept, with Homer Simpson",23_10,23,10,10,496,6.1,633
+The Simpsons,The D'oh-cial Network,23_11,23,11,11,497,7,636
+The Simpsons,Moe Goes from Rags to Riches,23_12,23,12,12,498,5.7,647
+The Simpsons,The Daughter Also Rises,23_13,23,13,13,499,6.4,564
+The Simpsons,At Long Last Leave,23_14,23,14,14,500,7,659
+The Simpsons,Exit Through the Kwik-E-Mart,23_15,23,15,15,501,6.8,495
+The Simpsons,How I Wet Your Mother,23_16,23,16,16,502,7.2,645
+The Simpsons,"Them, Robot",23_17,23,17,17,503,7,583
+The Simpsons,Beware My Cheating Bart,23_18,23,18,18,504,7.1,552
+The Simpsons,A Totally Fun Thing Bart Will Never Do Again,23_19,23,19,19,505,7.4,663
+The Simpsons,The Spy Who Learned Me,23_20,23,20,20,506,6.9,473
+The Simpsons,Ned 'N' Edna's Blend,23_21,23,21,21,507,6.7,487
+The Simpsons,Lisa Goes Gaga,23_22,23,22,22,508,4.3,1447
+The Simpsons,Moonshine River,24_01,24,01,1,509,6.4,684
+The Simpsons,Treehouse of Horror XXIII,24_02,24,02,2,510,7.3,695
+The Simpsons,Adventures in Baby-Getting,24_03,24,03,3,511,6.9,536
+The Simpsons,Gone Abie Gone,24_04,24,04,4,512,6.7,499
+The Simpsons,Penny-Wiseguys,24_05,24,05,5,513,6.3,501
+The Simpsons,A Tree Grows in Springfield,24_06,24,06,6,514,6.4,504
+The Simpsons,The Day the Earth Stood Cool,24_07,24,07,7,515,7.1,572
+The Simpsons,To Cur with Love,24_08,24,08,8,516,7.2,522
+The Simpsons,Homer Goes to Prep School,24_09,24,09,9,517,6.8,486
+The Simpsons,A Test Before Trying,24_10,24,10,10,518,7,481
+The Simpsons,Changing of the Guardian,24_11,24,11,11,519,6.6,480
+The Simpsons,Love Is a Many Splintered Thing,24_12,24,12,12,520,6.4,557
+The Simpsons,Hardly Kirk-ing,24_13,24,13,13,521,7,485
+The Simpsons,Gorgeous Grampa,24_14,24,14,14,522,6.2,502
+The Simpsons,"Black-Eyed, Please",24_15,24,15,15,523,7,497
+The Simpsons,Dark Knight Court,24_16,24,16,16,524,7.1,494
+The Simpsons,What Animated Women Want,24_17,24,17,17,525,6.5,497
+The Simpsons,Pulpit Friction,24_18,24,18,18,526,6.5,480
+The Simpsons,Whiskey Business,24_19,24,19,19,527,6.8,440
+The Simpsons,The Fabulous Faker Boy,24_20,24,20,20,528,6.3,486
+The Simpsons,The Saga of Carl,24_21,24,21,21,529,7.1,548
+The Simpsons,Dangers on a Train,24_22,24,22,22,530,7,469
+The Simpsons,Homerland,25_01,25,01,1,531,6.9,726
+The Simpsons,Treehouse of Horror XXIV,25_02,25,02,2,532,7,744
+The Simpsons,Four Regrettings and a Funeral,25_03,25,03,3,533,6.4,558
+The Simpsons,YOLO,25_04,25,04,4,534,6.6,570
+The Simpsons,Labor Pains,25_05,25,05,5,535,7,514
+The Simpsons,The Kid Is All Right,25_06,25,06,6,536,6.4,542
+The Simpsons,Yellow Subterfuge,25_07,25,07,7,537,7,516
+The Simpsons,White Christmas Blues,25_08,25,08,8,538,6.5,521
+The Simpsons,Steal This Episode,25_09,25,09,9,539,7.6,751
+The Simpsons,Married to the Blob,25_10,25,10,10,540,7.1,549
+The Simpsons,Specs and the City,25_11,25,11,11,541,7.2,508
+The Simpsons,Diggs,25_12,25,12,12,542,6.4,553
+The Simpsons,The Man Who Grew Too Much,25_13,25,13,13,543,6.7,545
+The Simpsons,The Winter of His Content,25_14,25,14,14,544,6.7,481
+The Simpsons,The War of Art,25_15,25,15,15,545,7,490
+The Simpsons,You Don't Have to Live Like a Referee,25_16,25,16,16,546,6.9,509
+The Simpsons,Luca$,25_17,25,17,17,547,6.5,490
+The Simpsons,Days of Future Future,25_18,25,18,18,548,7,591
+The Simpsons,What to Expect When Bart's Expecting,25_19,25,19,19,549,5.8,520
+The Simpsons,Brick Like Me,25_20,25,20,20,550,7.7,834
+The Simpsons,Pay Pal,25_21,25,21,21,551,6.7,476
+The Simpsons,The Yellow Badge of Cowardge,25_22,25,22,22,552,6.7,487
+The Simpsons,Clown in the Dumps,26_01,26,01,1,553,5.8,746
+The Simpsons,The Wreck of the Relationship,26_02,26,02,2,554,6.9,576
+The Simpsons,Super Franchise Me,26_03,26,03,3,555,6.5,540
+The Simpsons,Treehouse of Horror XXV,26_04,26,04,4,556,7.4,719
+The Simpsons,Opposites A-Frack,26_05,26,05,5,557,6.3,525
+The Simpsons,Simpsorama,26_06,26,06,6,558,7.9,1110
+The Simpsons,Blazed and Confused,26_07,26,07,7,559,6.9,539
+The Simpsons,Covercraft,26_08,26,08,8,560,6.5,517
+The Simpsons,I Won't Be Home for Christmas,26_09,26,09,9,561,6.8,508
+The Simpsons,The Man Who Came to Be Dinner,26_10,26,10,10,562,6.8,661
+The Simpsons,Bart's New Friend,26_11,26,11,11,563,7.3,520
+The Simpsons,The Musk Who Fell to Earth,26_12,26,12,12,564,5.9,538
+The Simpsons,Walking Big & Tall,26_13,26,13,13,565,6.3,448
+The Simpsons,My Fare Lady,26_14,26,14,14,566,6.7,434
+The Simpsons,The Princess Guide,26_15,26,15,15,567,6.6,453
+The Simpsons,Sky Police,26_16,26,16,16,568,6.8,460
+The Simpsons,Waiting for Duffman,26_17,26,17,17,569,6.7,449
+The Simpsons,Peeping Mom,26_18,26,18,18,570,6.7,407
+The Simpsons,The Kids Are All Fight,26_19,26,19,19,571,6.9,424
+The Simpsons,Let's Go Fly a Coot,26_20,26,20,20,572,6.3,412
+The Simpsons,Bull-E,26_21,26,21,21,573,6.8,413
+The Simpsons,Mathlete's Feat,26_22,26,22,22,574,6.9,414
+The Simpsons,Every Man's Dream,27_01,27,01,1,575,5.9,665
+The Simpsons,'Cue Detective,27_02,27,02,2,576,6.7,501
+The Simpsons,Puffless,27_03,27,03,3,577,7.2,517
+The Simpsons,Halloween of Horror,27_04,27,04,4,578,7.5,605
+The Simpsons,Treehouse of Horror XXVI,27_05,27,05,5,579,6.8,521
+The Simpsons,Friend with Benefit,27_06,27,06,6,580,6.9,443
+The Simpsons,"Lisa with an ""S""",27_07,27,07,7,581,6.2,446
+The Simpsons,Paths of Glory,27_08,27,08,8,582,7.1,422
+The Simpsons,Barthood,27_09,27,09,9,583,8.4,944
+The Simpsons,The Girl Code,27_10,27,10,10,584,6.7,478
+The Simpsons,Teenage Mutant Milk-Caused Hurdles,27_11,27,11,11,585,6.8,425
+The Simpsons,Much Apu About Something,27_12,27,12,12,586,6.7,384
+The Simpsons,Love Is in the N2-O2-Ar-CO2-Ne-He-CH4,27_13,27,13,13,587,6.4,369
+The Simpsons,Gal of Constant Sorrow,27_14,27,14,14,588,6.6,418
+The Simpsons,Lisa the Veterinarian,27_15,27,15,15,589,6.4,352
+The Simpsons,The Marge-ian Chronicles,27_16,27,16,16,590,7.2,383
+The Simpsons,The Burns Cage,27_17,27,17,17,591,6.5,374
+The Simpsons,How Lisa Got Her Marge Back,27_18,27,18,18,592,6.3,348
+The Simpsons,Fland Canyon,27_19,27,19,19,593,7.1,360
+The Simpsons,To Courier with Love,27_20,27,20,20,594,6.7,317
+The Simpsons,Simprovised,27_21,27,21,21,595,6.4,359
+The Simpsons,Orange Is the New Yellow,27_22,27,22,22,596,6.9,351
+The Simpsons,Monty Burns' Fleeing Circus,28_01,28,01,1,597,6.3,404
+The Simpsons,Friends and Family,28_02,28,02,2,598,6.8,349
+The Simpsons,The Town,28_03,28,03,3,599,7.2,362
+The Simpsons,Treehouse of Horror XXVII,28_04,28,04,4,600,7.2,430
+The Simpsons,Trust But Clarify,28_05,28,05,5,601,6.5,300
+The Simpsons,There Will Be Buds,28_06,28,06,6,602,6.9,298
+The Simpsons,Havana Wild Weekend,28_07,28,07,7,603,6.2,296
+The Simpsons,Dad Behavior,28_08,28,08,8,604,6.9,281
+The Simpsons,The Last Traction Hero,28_09,28,09,9,605,6.5,267
+The Simpsons,The Nightmare After Krustmas,28_10,28,10,10,606,6.1,281
+The Simpsons,Pork and Burns,28_11,28,11,11,607,7.1,283
+The Simpsons,The Great Phatsby,28_12,28,12,12,608,6.5,383
+The Simpsons,Fatzcarraldo,28_14,28,14,13,609,6.3,250
+The Simpsons,The Cad and the Hat,28_15,28,15,14,610,6.5,244
+The Simpsons,Kamp Krustier,28_16,28,16,15,611,6.8,237
+The Simpsons,22 for 30,28_17,28,17,16,612,6.6,247
+The Simpsons,A Father's Watch,28_18,28,18,17,613,7,230
+The Simpsons,The Caper Chase,28_19,28,19,18,614,6.2,257
+The Simpsons,Looking for Mr. Goodbart,28_20,28,20,19,615,7.1,238
+The Simpsons,Moho House,28_21,28,21,20,616,6.3,197
+The Simpsons,Dogtown,28_22,28,22,21,617,6.6,192

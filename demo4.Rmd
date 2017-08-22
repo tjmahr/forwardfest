@@ -1,0 +1,69 @@
+---
+title: "Demo 4 - Changing the data set"
+output: html_document
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(readr)
+library(ggplot2)
+library(dplyr)
+```
+
+We now have a variable indicating the data-set to load:
+
+```{r, echo = TRUE}
+filename <- "./pnr_avgs.csv"
+```
+
+***
+
+Load some data: 
+
+```{r, message = FALSE}
+df <- read_csv(filename) %>% 
+  select(Series, Season, EpNum = SubEp, 
+         OverallEp = TotalEp,
+         Episode, Rating = UserRating, 
+         Votes = UserVotes)
+```
+
+Print the first 10 rows of the data as a table:
+
+```{r}
+knitr::kable(head(df, 10))
+```
+
+The data in a plot:
+
+```{r}
+title <- paste0(df$Series[1], " episode ratings")
+
+ggplot(df) +
+  aes(x = OverallEp, y = Rating, color = factor(Season)) +
+  geom_point() +
+  stat_smooth(method = "lm", formula = y ~ 1, se = FALSE) +
+  labs(x = "Overall Episode Number",
+       y = "IMDB Rating", 
+       color = "Season",
+       caption = "Lines: Season averages") +
+  ggtitle(title) + 
+  expand_limits(y = 7:10) + 
+  theme_grey(base_size = 16)
+```
+
+
+```{r}
+# Get the highest rated episode
+top10 <- df %>% 
+  arrange(desc(Rating), desc(Votes)) %>% 
+  head(10)
+
+top_ep <- top10[1, ]
+```
+
+The highest rated episode of _`r top_ep$Series`_ 
+is "`r top_ep$Episode`" with a rating of 
+`r top_ep$Rating` from `r top_ep$Votes` votes.
+
+

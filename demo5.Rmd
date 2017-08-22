@@ -1,0 +1,23 @@
+
+```{python, results = "hide"}
+
+
+data = pd.read_csv('./got_avgs.csv')
+
+g = sns.lmplot(x = "TotalEp", y = "UserRating", hue = "Season", data = data,
+               legend_out = True, fit_reg = False)
+g = (g.set(xlim = (0, 70), ylim = (7, 10)))
+
+fig2 = plt.gcf()
+fig2.set_size_inches(4, 3)
+fig2.savefig("python-fig2.png", dpi = 300)
+
+
+
+```
+
+```{r}
+knitr::include_graphics("python-fig1.png")
+knitr::include_graphics("python-fig2.png")
+```
+
