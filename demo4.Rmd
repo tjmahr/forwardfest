@@ -1,19 +1,28 @@
 ---
 title: "Demo 4 - Changing the data set"
 output: html_document
+params:
+  filename: ./pnr_avgs.csv
 ---
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = FALSE)
 library(readr)
 library(ggplot2)
 library(dplyr)
+
+# Include the dataset in the figure paths
+data <- tools::file_path_sans_ext(basename(params$filename))
+fig_path <- paste0("./rendered/figs/d4-", data, "-")
+knitr::opts_chunk$set(
+  echo = FALSE, 
+  fig.path = fig_path)
 ```
 
 We now have a variable indicating the data-set to load:
 
 ```{r, echo = TRUE}
-filename <- "./pnr_avgs.csv"
+filename <- params$filename
+filename
 ```
 
 ***
