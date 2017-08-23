@@ -3,6 +3,12 @@
 This repository contains my portion of a group talk about reproducible 
 research. I talked about RMarkdown and demoed some of the basic ideas.
 
+`talk.Rmd` is the source of the slides. Each of the `demo*.Rmd` files 
+is an RMarkdown demo. Here are what the output look like in general.
+
+* [Slides](https://cdn.rawgit.com/tjmahr/forwardfest/f114796c/rendered/talk.html)
+* [Demo 4 output](https://cdn.rawgit.com/tjmahr/forwardfest/f114796c/rendered/demo4.html)
+
 `get_data.R` is an R script for scraping IMDB ratings for TV shows. 
 I used to generate the datasets of TV episode ratings.
 
