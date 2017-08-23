@@ -5,6 +5,8 @@ research. I talked about RMarkdown and demoed some of the basic ideas.
 
 `talk.Rmd` is the source of the slides. Each of the `demo*.Rmd` files 
 is an RMarkdown demo. Here are what the output look like in general.
+(That is, if the RawGit service is working... I had trouble when I 
+first uploaded the slides.)
 
 * [Slides](https://cdn.rawgit.com/tjmahr/forwardfest/f114796c/rendered/talk.html)
 * [Demo 4 output](https://cdn.rawgit.com/tjmahr/forwardfest/f114796c/rendered/demo4.html)
